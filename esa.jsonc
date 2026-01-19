@@ -1,0 +1,9 @@
+{
+  // ESA Pages 配置文件
+  "build": {
+    // 构建输出目录（静态资源目录）
+    "assets": "dist",
+    // 入口文件（可选，默认使用 dist/index.html）
+    "entry": "dist/index.html"
+  }
+}

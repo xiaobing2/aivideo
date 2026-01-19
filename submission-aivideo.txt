@@ -5,8 +5,7 @@ https://your-project-on-esa-pages.example.com
 （请替换为您的 ESA Pages 实际访问地址）
 
 Github 仓库地址：
-https://github.com/your-username/aivideo-esa
-（请替换为您的 GitHub 仓库实际地址）
+https://github.com/xiaobing2/aivideo
 
 作品说明：
 
